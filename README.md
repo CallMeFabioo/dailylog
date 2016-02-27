@@ -8,3 +8,4 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 
 - [Day 24](logs/24-02-2016.md) - `instrumental music` `javascript` `tools` `universe`
 - [Day 25](logs/25-02-2016.md) - `music` `javascript` `airsoft`
+- [Day 26](logs/26-02-2016.md) - `music` `javascript` `css` `concepts` `youtube`
