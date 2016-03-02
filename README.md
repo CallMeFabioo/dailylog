@@ -12,3 +12,7 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - [Day 27](logs/27-02-2016.md) - `day off` `series`
 - [Day 28](logs/28-02-2016.md) - `day off` `tv`
 - [Day 29](logs/29-02-2016.md) - `articles` `vuejs`
+
+## March, 2016.
+
+- [Day 01](logs/01-03-2016.md) - `ux` `javascript` `css`
