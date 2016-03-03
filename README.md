@@ -16,3 +16,4 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 ## March, 2016.
 
 - [Day 01](logs/01-03-2016.md) - `ux` `javascript` `css`
+- [Day 02](logs/02-03-2016.md) - `rain` `fallujah`
