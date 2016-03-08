@@ -21,3 +21,4 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - [Day 04](logs/04-03-2016.md) - `javascript` `css`
 - Day 05 - `day off` `series` `I visited my brother` `friends`
 - Day 06 - `day off` `my birthday`
+- Day 07 - `sick` `netflix` `sleep`
