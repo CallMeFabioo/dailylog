@@ -26,3 +26,5 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - [Day 09](logs/09-03-2016.md) - `medium` `css`
 - [Day 10](logs/10-03-2016.md) - `javascript` `css` `testing`
 - [Day 11](logs/11-03-2016.md) - `git` `javascript` `ux`
+- Day 12 - `day off` `netflix`
+- Day 13 - `day off` `netflix`
