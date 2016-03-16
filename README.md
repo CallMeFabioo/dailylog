@@ -29,3 +29,4 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - Day 12 - `day off` `netflix`
 - Day 13 - `day off` `netflix`
 - [Day 14](logs/14-03-2016.md) - `science` `ux`
+- [Day 15](logs/15-03-2016.md) - `css stuffs` `javascript` `some nice stuffs too`
