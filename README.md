@@ -31,3 +31,4 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - [Day 14](logs/14-03-2016.md) - `science` `ux`
 - [Day 15](logs/15-03-2016.md) - `css stuffs` `javascript` `some nice stuffs too`
 - [Day 16](logs/16-03-2016.md) - `ux` `reactive programming` `tools` `concepts`
+- [Day 17](logs/17-03-2016.md) - `php` `laravel` `ux`
