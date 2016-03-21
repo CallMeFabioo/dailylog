@@ -33,3 +33,5 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - [Day 16](logs/16-03-2016.md) - `ux` `reactive programming` `tools` `concepts`
 - [Day 17](logs/17-03-2016.md) - `php` `laravel` `ux`
 - [Day 18](logs/18-03-2016.md) - `development` `learning`
+- Day 19 - `day off` `netflix` `animes`
+- Day 20 - `day off` `netflix` `animes`
