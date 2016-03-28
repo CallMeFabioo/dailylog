@@ -37,3 +37,8 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - Day 20 - `day off` `netflix` `animes`
 - [Day 21](logs/21-03-2016.md) - `javascript` `neural networks`
 - [Day 22](logs/22-03-2016.md) - `css` `youtube` `math`
+- Day 23 - `day off` `netflix` `animes`
+- [Day 24](logs/24-03-2016.md) - `css` `javascript`
+- Day 25 - `day off` `netflix` `animes`
+- Day 26 - `day off` `netflix` `animes`
+- Day 27 - `day off` `netflix` `animes`
