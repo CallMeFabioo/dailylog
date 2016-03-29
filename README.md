@@ -42,3 +42,4 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - Day 25 - `day off` `netflix` `animes`
 - Day 26 - `day off` `netflix` `animes`
 - Day 27 - `day off` `netflix` `animes`
+- [Day 28](logs/28-03-2016.md) - `javascript`
