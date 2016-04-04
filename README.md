@@ -51,3 +51,4 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 
 - [Day 01](logs/01-04-2016.md) - `tips for conditional expressions` `safari features`
 - Day 02 - `day off` `netflix` `animes` `meet friends`
+- Day 03 - `day off` `netflix` `animes` `work on my bachelor project`
