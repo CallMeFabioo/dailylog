@@ -54,3 +54,4 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - Day 03 - `day off` `netflix` `animes` `work on my bachelor project`
 - [Day 04](logs/04-04-2016.md) - `javascript articles` `git tips` `laravel comparisons`
 - [Day 05](logs/05-04-2016.md) - `ux` `css` `development articles`
+- [Day 06](logs/06-04-2016.md) - `ux` `colors` `browserify` `writing`
