@@ -56,3 +56,4 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - [Day 05](logs/05-04-2016.md) - `ux` `css` `development articles`
 - [Day 06](logs/06-04-2016.md) - `ux` `colors` `browserify` `writing`
 - [Day 07](logs/07-04-2016.md) - `php` `colors palletes`
+- [Day 08](logs/08-04-2016.md) - `javascript es2015` `code is the new language`
