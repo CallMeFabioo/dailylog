@@ -60,3 +60,4 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - Day 09 - `day off` `netflix` `animes`
 - Day 10 - `day off` `netflix` `animes`
 - [Day 11](logs/11-04-2016.md) - `javascript es2015: fetch` `css: nth-child and flexbox`
+- [Day 12](logs/12-04-2016.md) - `javascript es2015: async and await` `ux: strategy and modules demos`
