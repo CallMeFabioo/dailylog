@@ -62,3 +62,7 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - [Day 11](logs/11-04-2016.md) - `javascript es2015: fetch` `css: nth-child and flexbox`
 - [Day 12](logs/12-04-2016.md) - `javascript es2015: async and await` `ux: strategy and modules demos`
 - Day 13 - `nothing important`
+- [Day 14](logs/14-04-2016.md) - `css: flexbox resources`
+- [Day 15](logs/15-04-2016.md) - `javascript: redux, web cryptography api` `ux: defining UX in 2 minutes`
+- Day 16 - `day off` `Bachelor presentation` `netflix`
+- Day 17 - `day off` `Bachelor presentation` `netflix`
