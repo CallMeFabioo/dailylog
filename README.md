@@ -66,3 +66,4 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - [Day 15](logs/15-04-2016.md) - `javascript: redux, web cryptography api` `ux: defining UX in 2 minutes`
 - Day 16 - `day off` `Bachelor presentation` `netflix`
 - Day 17 - `day off` `Bachelor presentation` `netflix`
+- [Day 18](logs/18-04-2016.md) - `microservices` `productivity concepts`
