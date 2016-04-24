@@ -67,3 +67,9 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - Day 16 - `day off` `Bachelor presentation` `netflix`
 - Day 17 - `day off` `Bachelor presentation` `netflix`
 - [Day 18](logs/18-04-2016.md) - `microservices` `productivity concepts`
+- Day 19 - `day off` `Bachelor presentation` `netflix`
+- Day 20 - `day off` `Bachelor presentation` `netflix` `animes`
+- Day 21 - `day off` `Bachelor presentation` `netflix`
+- Day 22 - `day off` `Bachelor presentation` `netflix` `animes`
+- Day 23 - `day off` `Bachelor presentation` `netflix`
+- Day 24 - `day off` `Bachelor presentation` `netflix` `animes`
