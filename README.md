@@ -73,3 +73,4 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - Day 22 - `day off` `Bachelor presentation` `netflix` `animes`
 - Day 23 - `day off` `Bachelor presentation` `netflix`
 - Day 24 - `day off` `Bachelor presentation` `netflix` `animes`
+- [Day 25](logs/25-04-2016.md) - `svg` `ux`
