@@ -74,3 +74,6 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - Day 23 - `day off` `Bachelor presentation` `netflix`
 - Day 24 - `day off` `Bachelor presentation` `netflix` `animes`
 - [Day 25](logs/25-04-2016.md) - `svg` `ux`
+- [Day 26](logs/26-04-2016.md) - `javascript es2015: strings` `css`
+- [Day 27](logs/27-04-2016.md) - `javascript` `best pratices` `php` `css`
+- [Day 28](logs/28-04-2016.md) - `mysql`
