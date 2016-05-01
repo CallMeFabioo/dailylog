@@ -77,3 +77,5 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - [Day 26](logs/26-04-2016.md) - `javascript es2015: strings` `css`
 - [Day 27](logs/27-04-2016.md) - `javascript` `best pratices` `php` `css`
 - [Day 28](logs/28-04-2016.md) - `mysql`
+- [Day 29](logs/29-04-2016.md) - `javascript es2015: classes` `images: svg` `css: flexbox`
+- Day 30 - `day off` `Bachelor presentation` `soccer with friends`
