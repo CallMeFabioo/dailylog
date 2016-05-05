@@ -84,3 +84,5 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 
 - Day 01 - `day off` `Bachelor presentation` `netflix`
 - Day 02 - `nothing really important`
+- [Day 03](logs/03-05-2016.md) - `javascript: arrays and immutability` `php: laravel` `css: pseudo-classes`
+- Day 04 - `nothing really important`
