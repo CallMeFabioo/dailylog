@@ -87,3 +87,7 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - [Day 03](logs/03-05-2016.md) - `javascript: arrays and immutability` `php: laravel` `css: pseudo-classes`
 - Day 04 - `nothing really important :(`
 - Day 05 - `nothing really important :(`
+- [Day 06](logs/06-05-2016.md) - `ux: sites and blogs` `css: layouts with floats, meaningful css`
+- Day 07 - `nothing really important :(`
+- Day 08 - `nothing really important :(`
+- [Day 09](logs/09-05-2016.md) - `javascript: ES2015, ReactJS, Node.js 6.0` `css: flexbox` `misc: write meaningful README`
