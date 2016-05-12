@@ -91,3 +91,5 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - Day 07 - `nothing really important :(`
 - Day 08 - `nothing really important :(`
 - [Day 09](logs/09-05-2016.md) - `javascript: ES2015, ReactJS, Node.js 6.0` `css: flexbox` `misc: write meaningful README`
+- [Day 10](logs/10-05-2016.md) - `javascript: organization and reactjs` `design: fluid typography`
+- [Day 11](logs/11-05-2016.md) - `javascript: electron 1.0` `design: What’s new for May 2016 and buttons` `css: large-scale displays` `browser: page visibility`
