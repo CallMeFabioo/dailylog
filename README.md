@@ -94,3 +94,8 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - [Day 10](logs/10-05-2016.md) - `javascript: organization and reactjs` `design: fluid typography`
 - [Day 11](logs/11-05-2016.md) - `javascript: electron 1.0` `design: What’s new for May 2016 and buttons` `css: large-scale displays` `browser: page visibility`
 - [Day 12](logs/12-05-2016.md) - `php: Uuid with laravel` `css: flexbox` `design: material colors`
+- Day 13 - `nothing really important :(` `Bachelor presentation`
+- Day 14 - `nothing really important :(` `Bachelor presentation`
+- Day 15 - `nothing really important :(` `Bachelor presentation`
+- [Day 16](logs/16-05-2016.md) - `javascript: redux` `design patterns: clean code`
+- [Day 17](logs/17-05-2016.md) - `php: Introducing PHP7`
