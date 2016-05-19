@@ -99,3 +99,4 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - Day 15 - `nothing really important :(` `Bachelor presentation`
 - [Day 16](logs/16-05-2016.md) - `javascript: redux` `design patterns: clean code`
 - [Day 17](logs/17-05-2016.md) - `php: Introducing PHP7`
+- [Day 18](logs/18-05-2016.md) - `php: Eloquent, search and query filters` `javascript: Generators and Iterators` `css: Understading Grid`
