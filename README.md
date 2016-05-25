@@ -100,3 +100,9 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - [Day 16](logs/16-05-2016.md) - `javascript: redux` `design patterns: clean code`
 - [Day 17](logs/17-05-2016.md) - `php: Introducing PHP7`
 - [Day 18](logs/18-05-2016.md) - `php: Eloquent, search and query filters` `javascript: Generators and Iterators` `css: Understading Grid`
+- [Day 19](logs/19-05-2016.md) - `css: grids` `javascript: video player`
+- [Day 20](logs/20-05-2016.md) - `php: Middleware` `dev: How to be a senior programmer` `hacking: Falha De Segurança De 16 Milhões De Reais`
+- Day 21 - `nothing really important :(`
+- Day 22 - `nothing really important :(`
+- [Day 23](logs/23-05-2016.md) - `php: PHP7.1` `js: Hidden Power of ES6 Generators` `css: Advanced CSS Tricks`
+- [Day 24](logs/24-05-2016.md) - `css: all display properties, inspiration menu styles and SASS mixins`
