@@ -112,3 +112,9 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 - Day 28 - `day off` `netflix`
 - Day 29 - `day off` `netflix`
 - [Day 30](logs/30-05-2016.md) - `css: sticky footer` `dev: por que você programa?`
+
+
+## June, 2016.
+
+- Day 01 - `nothing really important :(`
+- [Day 02](logs/02/06-2016.md) - `devops: docker` `css: SVG, responsive images and flexbox` `js: react, redux, auth with angular, factory functions vs constructor cunctions vs classes` `php: laravel serializesModels Trait`
