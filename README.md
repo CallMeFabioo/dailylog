@@ -118,3 +118,6 @@ Trying to log the things that happened on my day. Interesting things, I guess.
 
 - Day 01 - `nothing really important :(`
 - [Day 02](logs/02/06-2016.md) - `devops: docker` `css: SVG, responsive images and flexbox` `js: react, redux, auth with angular, factory functions vs constructor cunctions vs classes` `php: laravel serializesModels Trait`
+- Day 03 - `nothing really important :(`
+- Day 04 - `nothing really important :(`
+- Day 05 - `nothing really important :(`
